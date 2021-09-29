@@ -2,4 +2,4 @@
 ===================
 2021.09.29
 -----------
-[boj 11047번 문제]:https://www.acmicpc.net/problem/11047
+[boj 11047번 문제](https://www.acmicpc.net/problem/11047)
