@@ -11,3 +11,5 @@
 [boj 2839번 문제(설탕 배달)](https://www.acmicpc.net/problem/2839)&nbsp;&nbsp;[풀이](https://github.com/kbk7525/algorithm-study/blob/master/boj_2839.py)
 
 [boj 1026번 문제(보물)](https://www.acmicpc.net/problem/1026)&nbsp;&nbsp;[풀이](https://github.com/kbk7525/algorithm-study/blob/master/boj_1026.py)
+
+[boj 5585번 문제(거스름돈)](https://www.acmicpc.net/problem/5585)&nbsp;&nbsp;[풀이](https://github.com/kbk7525/algorithm-study/blob/master/boj_5585.py)
