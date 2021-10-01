@@ -13,3 +13,7 @@
 [boj 1026번 문제(보물)](https://www.acmicpc.net/problem/1026)&nbsp;&nbsp;[풀이](https://github.com/kbk7525/algorithm-study/blob/master/boj_1026.py)
 
 [boj 5585번 문제(거스름돈)](https://www.acmicpc.net/problem/5585)&nbsp;&nbsp;[풀이](https://github.com/kbk7525/algorithm-study/blob/master/boj_5585.py)
+
+2021.10.01
+-----------
+[boj 10162번 문제(전자레인지)](https://www.acmicpc.net/problem/10162)&nbsp;&nbsp;[풀이](https://github.com/kbk7525/algorithm-study/blob/master/boj_2839.py)
