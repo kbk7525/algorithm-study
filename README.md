@@ -17,4 +17,5 @@
 2021.10.01
 -----------
 [boj 10162번 문제(전자레인지)](https://www.acmicpc.net/problem/10162)&nbsp;&nbsp;[풀이](https://github.com/kbk7525/algorithm-study/blob/master/boj_10162.py)
+
 [boj 2217번 문제(로프)](https://www.acmicpc.net/problem/2217)&nbsp;&nbsp;[풀이](https://github.com/kbk7525/algorithm-study/blob/master/boj_2217.py)
