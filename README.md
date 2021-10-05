@@ -23,3 +23,5 @@
 2021.10.05
 -----------
 [boj 10872번 문제(팩토리얼)](https://www.acmicpc.net/problem/10872)&nbsp;&nbsp;[풀이](https://github.com/kbk7525/algorithm-study/blob/master/boj_10872.py)
+
+[boj 10870번 문제(피보나치 수 5)](https://www.acmicpc.net/problem/10870)&nbsp;&nbsp;[풀이](https://github.com/kbk7525/algorithm-study/blob/master/boj_10870.py)
