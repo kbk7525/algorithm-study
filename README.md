@@ -34,6 +34,8 @@
 
 [boj 13305번 문제(주유소)](https://www.acmicpc.net/problem/13305)&nbsp;&nbsp;[풀이](https://github.com/kbk7525/algorithm-study/blob/master/boj_13305.py)
 
+
+[boj 2750번 문제(수 정렬하기)](https://www.acmicpc.net/problem/2750)&nbsp;&nbsp;[풀이](https://github.com/kbk7525/algorithm-study/blob/master/boj_2750.py)
 **### readme는 여기서 끝**
 
 **### 다음부터는 바로 커밋에 문제이름 쓸 예정(readme때문에 커밋수가 너무 많아짐;;)**
