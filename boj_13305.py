@@ -7,5 +7,5 @@ total = 0 #최소비용
 for i in range(n-1):
     if minp >= price[i]:
         minp = price[i]
-    total += (dst[i]*minp) #최소기름값과 거리를 곱해서 더함
+    total += (dst[i]*minp) #최소 기름값과 거리를 곱해서 더함
 print(total)
