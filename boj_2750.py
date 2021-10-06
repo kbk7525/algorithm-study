@@ -3,6 +3,6 @@ n = int(input())
 num = []
 for i in range(n):
     num.append(int(input()))
-num.sort()
+num.sort() #sort함수
 for i in num:
     print(i)
