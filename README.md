@@ -31,3 +31,8 @@
 2021.10.06
 -----------
 [boj 1152번 문제(단어의 개수)](https://www.acmicpc.net/problem/1152)&nbsp;&nbsp;[풀이](https://github.com/kbk7525/algorithm-study/blob/master/boj_1152.py)
+
+[boj 13305번 문제(주유소)](https://www.acmicpc.net/problem/13305)&nbsp;&nbsp;[풀이](https://github.com/kbk7525/algorithm-study/blob/master/boj_13305.py)
+
+readme는 여기서 끝
+다음부터는 바로 커밋창에 설명을 쓸 예정(readme때문에 커밋수가 너무 많아짐..)
