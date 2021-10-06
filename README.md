@@ -27,3 +27,7 @@
 [boj 10870번 문제(피보나치 수 5)](https://www.acmicpc.net/problem/10870)&nbsp;&nbsp;[풀이](https://github.com/kbk7525/algorithm-study/blob/master/boj_10870.py)
 
 [boj 11729번 문제(하노이 탑 이동순서)](https://www.acmicpc.net/problem/11729)&nbsp;&nbsp;[풀이](https://github.com/kbk7525/algorithm-study/blob/master/boj_11729.py)
+
+2021.10.06
+-----------
+[boj 1152번 문제(단어의 개수)](https://www.acmicpc.net/problem/1152)&nbsp;&nbsp;[풀이](https://github.com/kbk7525/algorithm-study/blob/master/boj_1152.py)
